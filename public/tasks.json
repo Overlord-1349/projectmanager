@@ -1,0 +1,7 @@
+{"tasks" : [
+    {"id": 0, "name":"state", "description": "Learn state hooks", "assigned": {"userId": "894WGdqFLBdRXwMfFRLewiWK20Z2", "name":"J. Enrique"}, "status": "backlog"},
+    {"id": 4, "name":"effect", "description": "Learn effect hooks", "assigned": {"userId": "894WGdqFLBdRXwMfFRLewiWK20Z2", "name":"J. Enrique"}, "status": "inprogress"},
+    {"id": 19, "name":"fetch", "description": "Learn fetch", "assigned": {"userId": "894WGdqFLBdRXwMfFRLewiWK20Z2", "name":"J. Enrique"}, "status": "done"},
+    {"id": 3, "name":"react with hooks", "description": "Learn hooks", "assigned": {"userId": "894WGdqFLBdRXwMfFRLewiWK20Z2", "name":"J. Enrique"}, "status": "backlog"},
+    {"id": 8, "name":"mas de react", "description": "Learn hooks", "assigned": {"userId": "894WGdqFLBdRXwMfFRLewiWK20Z2", "name":"J. Enrique"}, "status": "done"}
+]}
